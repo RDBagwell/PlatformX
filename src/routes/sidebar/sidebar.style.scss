@@ -1,0 +1,15 @@
+.sideBar {
+    height: 100vh;
+    background: grey;
+    width: 300px;
+    margin-right: 30px;
+    .sidebar-title-contaner {
+        background: antiquewhite;
+        padding: 15px;
+    }
+    .sidebar-links {
+        display: flex;
+        flex-direction: column;
+        padding: 0 10px;
+    }
+}
